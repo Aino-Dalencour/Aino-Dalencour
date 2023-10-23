@@ -22,7 +22,7 @@
 
 [youtube]: https://www.youtube.com/@AinoDalencour
 [instagram]: https://www.instagram.com/aino_dalencour/
-[linkedin]: https://linkedin.com/in/aino-dalencour
+[linkedin]: https://www.linkedin.com/in/aino-dalencour-789818220/
 
 
 
