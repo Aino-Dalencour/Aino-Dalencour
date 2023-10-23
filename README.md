@@ -1,7 +1,7 @@
 <h1>Hi, I'm Aino! <br/><a href="https://github.com/Aino-Dalencour">Programmer</a>, <a href=https://www.linkedin.com/in/aino-dalencour-789818220/">Cybersecurity Professional</a>
 
 <h2>Certifications</h2>
-- [CompTIA Security+] (![image](https://github.com/Aino-Dalencour/Aino-Dalencour/assets/148592973/7dc506bf-4f52-4ea2-a5c3-9d132220809f)
+- [CompTIA Security+] (![image](https://rb.gy/i2te7)
 
 
 
