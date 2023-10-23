@@ -23,7 +23,7 @@
 [youtube]: https://www.youtube.com/@AinoDalencour
 [instagram]: https://www.instagram.com/aino_dalencour/
 [linkedin]: https://www.linkedin.com/in/aino-dalencour-789818220/
-[twitter] : https://twitter.com/Aino_Dalencour
+[twitter]: https://twitter.com/Aino_Dalencour
 
 
 Here are some ideas to get you started:
