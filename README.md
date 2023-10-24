@@ -1,7 +1,7 @@
 <h1>Hi, I'm Aino! <br/><a href="https://github.com/Aino-Dalencour">Programmer</a>, <a href=https://www.linkedin.com/in/aino-dalencour-789818220/">Cybersecurity Professional</a>
 
 <h2>Certifications</h2>
-  - <a href ="https://rb.gy/i2te7">CompTIA Security+]</a>
+  - <a href ="https://rb.gy/i2te7">CompTIA Security+</a>
 
 
 
@@ -18,12 +18,13 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
+[twitter]: https://twitter.com/Aino_Dalencour
 [youtube]: https://www.youtube.com/@AinoDalencour
 [instagram]: https://www.instagram.com/aino_dalencour/
 [linkedin]: https://www.linkedin.com/in/aino-dalencour-789818220/
-[twitter]: https://twitter.com/Aino_Dalencour
+
 
 
 Here are some ideas to get you started:
