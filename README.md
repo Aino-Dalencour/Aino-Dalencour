@@ -28,7 +28,7 @@
 
 
 
-Here are some ideas to get you started:
+<h2>More Info</h2>
 
 - 🔭 I’m currently working towards my CCNA certification, and aim to enhance my networking knowledge and skills.
 - 🌱 I’m currently learning to code in Python, which empowers me to tackle increasingly complex projects, solve diverse problems, and expand my proficiency as a Python developer.
