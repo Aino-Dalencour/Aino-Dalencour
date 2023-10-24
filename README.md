@@ -13,7 +13,7 @@
 
 
 
-<h2>More Info</h2>
+<h2>Bio/More Info</h2>
 
 
 
